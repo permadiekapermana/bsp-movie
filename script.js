@@ -58,6 +58,7 @@ $('#search').on('click', function() {
 
 });
 
+
 // function menggunakan enter pada kolom input
 $('#input').on('keyup', function(event) {
     if (event.which == 13){
